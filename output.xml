@@ -1,0 +1,14 @@
+<People>
+    <person>
+        <name>Ania</name>
+        <pesel>20</pesel>
+    </person>
+    <person>
+        <name>Bartek</name>
+        <pesel>22</pesel>
+    </person>
+    <person>
+        <name>Jozek</name>
+        <pesel>37</pesel>
+    </person>
+</People>
